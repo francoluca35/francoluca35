@@ -1,5 +1,5 @@
-- 👋 Hola, Mi Nombre es Franco Parera estoy en proceso a convertirme en programador Front-End.
-- 👋 Hello, My name is Franco Parera, I am in the process of becoming a Front-End programmer.
+- 👋 Hola, Mi Nombre es Franco Parera estoy en proceso a convertirme en Desarrollador Front-End.
+- 👋 Hello, My name is Franco Parera, I am in the process of becoming a Front-End Developers.
 
 <!---
 francoluca35/francoluca35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
