@@ -1,4 +1,4 @@
-- 👋 Hola, Mi Nombre es Franco Parera soy Desarrollador Full-Stack, y Diseñador UX Jr;
+- 👋 Hola, Mi Nombre es Franco Parera soy Desarrollador Full-Stack, y Diseñador UX Jr.
   Manejo lenguajes como JavaScript, C#, Python.👨‍💻
 - 👋 Hello, My name is Franco Parera, I am a Full-Stack Developers and UX designer Jr.
   I control languages ​​such as JavaScript, C#, Python. 👨‍💻
