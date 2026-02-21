@@ -65,8 +65,6 @@ Vercel · Modular systems · Scalable architecture
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoluca35&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=francoluca35&theme=radical&hide_border=true)
-
 
 
 📩 Contacto
