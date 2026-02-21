@@ -59,9 +59,9 @@ Android Studio · Firebase Integration · Mobile-first architecture
 Infrastructure
 Vercel · Modular systems · Scalable architecture
 
-## 📊 GitHub Activity
+## 📈 Contributions
 
-[![Franco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francoluca35&theme=tokyo-night&hide_border=true)](https://github.com/francoluca35)
+![GitHub Activity](https://ghchart.rshah.org/francoluca35)
 
 📩 Contacto
 GitHub:
