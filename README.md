@@ -59,9 +59,6 @@ Android Studio · Firebase Integration · Mobile-first architecture
 Infrastructure
 Vercel · Modular systems · Scalable architecture
 
-## 📈 Contributions
-
-![GitHub Activity](https://ghchart.rshah.org/francoluca35)
 
 📩 Contacto
 GitHub:
