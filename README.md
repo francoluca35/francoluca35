@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Franco+Parera;26+years+old)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=Franco+Parera;DeamonDD;)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Software+Developer;Frontend+Engineer)
 
 ## 📊 Estadísticas
