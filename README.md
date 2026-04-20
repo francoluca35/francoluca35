@@ -1,35 +1,15 @@
-🚀 Franco Parera
-Tech Founder · SaaS Architect · Digital Agency CEO
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Software+Developer;Frontend+Engineer;Always+Learning)
 
-Building scalable digital infrastructure.
+## 📊 Estadísticas
 
-📍 Buenos Aires, Argentina — 🌎 Remote Worldwide
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=francoluca35&show_icons=true&theme=radical)
 
-🇺🇸 About Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoluca35&layout=compact&theme=radical)
 
-Product-driven Tech Founder & Full Stack Architect focused on scalable systems, SaaS infrastructure and automation-driven businesses.
-
-I design, build and scale real-world platforms combining engineering, UX and business vision.
-
-I don’t just ship features.
-I build systems that grow.
-
-🏢 Ventures
-🍽 Gastronomic SaaS Platform (Founder)
-
-Cloud-based restaurant management system:
-
-Real-time order sync
-
-Multi-location architecture
-
-QR payment validation
-
-Automated thermal printing
-
-Firebase cloud infrastructure
-
-Recurring revenue SaaS model
+![GitHub Streak](https://streak-stats.demolab.com?user=francoluca35&theme=radical)
+<h1 align="center">👋 ¡Hola! Soy Franco Parera</h1>
+<h3 align="center">💻 Software Developer & Frontend Engineerr</h3>
+<h4 align="center">Mi enfoque está destinado en un gran porcentaje hacia el FrontEnd</h4>
 
 🧠 Deamon DD (Founder & CEO)
 
